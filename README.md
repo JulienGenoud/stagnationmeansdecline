@@ -8,7 +8,7 @@ COLLECTION OF CHRISTOPHE BOUTIN
 
 CODE BY REINIER FEIJEN - WWW.BOXOFCHOCOLATES.NL
 
-<!-- language: lang-none -->
+<!-- language: lang-none 
 
  , __     , __
 /|/  \   /|/  \
@@ -54,3 +54,5 @@ CODE BY REINIER FEIJEN - WWW.BOXOFCHOCOLATES.NL
   _    _
  /_/  /_/
 / \  / \
+
+-->
