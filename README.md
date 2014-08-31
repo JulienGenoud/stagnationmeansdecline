@@ -8,6 +8,8 @@ COLLECTION OF CHRISTOPHE BOUTIN
 
 CODE BY REINIER FEIJEN - WWW.BOXOFCHOCOLATES.NL
 
+<!---
+
  , __     , __
 /|/  \   /|/  \
  |___/    |___/
